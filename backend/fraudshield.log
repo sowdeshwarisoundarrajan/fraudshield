@@ -1,0 +1,10 @@
+2026-03-02 11:41:54,951 - INFO - Transaction: {'amount': 50000.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 4} | ML Score: 0.34 | Rule Score: 100.0 | Final Score: 40.2 | Status: FLAGGED
+2026-03-02 11:41:58,034 - INFO - Transaction: {'amount': 50000.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 4} | ML Score: 0.34 | Rule Score: 100.0 | Final Score: 40.2 | Status: FLAGGED
+2026-03-02 11:41:59,703 - INFO - Transaction: {'amount': 50000.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 4} | ML Score: 0.34 | Rule Score: 100.0 | Final Score: 40.2 | Status: FLAGGED
+2026-03-02 11:42:56,116 - INFO - Transaction: {'amount': 500.0, 'hour': 14, 'location_match': 1, 'device_match': 1, 'failed_attempts': 0} | ML Score: 2.92 | Rule Score: 0.0 | Final Score: 1.75 | Status: ALLOWED
+2026-03-02 12:03:48,691 - INFO - Transaction: {'amount': 500.0, 'hour': 14, 'location_match': 1, 'device_match': 1, 'failed_attempts': 0} | ML Score: 2.92 | Rule Score: 0.0 | Final Score: 1.75 | Status: ALLOWED
+2026-03-02 12:19:01,020 - INFO - Transaction: {'amount': 50000.0, 'hour': 23, 'location_match': 0, 'device_match': 1, 'failed_attempts': 8} | ML Score: 0.6 | Rule Score: 65.0 | Final Score: 26.36 | Status: ALLOWED
+2026-03-02 12:19:23,979 - INFO - Transaction: {'amount': 500.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 0} | ML Score: 2.65 | Rule Score: 65.0 | Final Score: 27.59 | Status: ALLOWED
+2026-03-02 12:19:44,105 - INFO - Transaction: {'amount': 500.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 0} | ML Score: 2.65 | Rule Score: 65.0 | Final Score: 27.59 | Status: ALLOWED
+2026-03-02 12:19:50,443 - INFO - Transaction: {'amount': 500.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 3} | ML Score: 3.44 | Rule Score: 75.0 | Final Score: 32.06 | Status: ALLOWED
+2026-03-02 12:19:58,722 - INFO - Transaction: {'amount': 500.0, 'hour': 2, 'location_match': 0, 'device_match': 0, 'failed_attempts': 11} | ML Score: 2.9 | Rule Score: 75.0 | Final Score: 31.74 | Status: ALLOWED

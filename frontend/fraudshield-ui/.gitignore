@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pkl
+venv/
+.env
+*.pyc
+fraudshield.db
+*.egg-info/
+dist/
+build/
+.DS_Store
