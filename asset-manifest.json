@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fraudshield/static/css/main.3851d270.css",
+    "main.js": "/fraudshield/static/js/main.9f31318c.js",
+    "static/js/453.a0fb7c41.chunk.js": "/fraudshield/static/js/453.a0fb7c41.chunk.js",
+    "index.html": "/fraudshield/index.html",
+    "main.3851d270.css.map": "/fraudshield/static/css/main.3851d270.css.map",
+    "main.9f31318c.js.map": "/fraudshield/static/js/main.9f31318c.js.map",
+    "453.a0fb7c41.chunk.js.map": "/fraudshield/static/js/453.a0fb7c41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3851d270.css",
+    "static/js/main.9f31318c.js"
+  ]
+}
