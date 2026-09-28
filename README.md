@@ -81,3 +81,18 @@ Fraud Prediction
 Risk Analysis
        ↓
 API / User Interface
+## 📂 Project Structure
+
+```text
+fraudshield/
+│
+├── app.py
+├── model.py
+├── requirements.txt
+├── README.md
+│
+├── dataset/
+│   └── transactions.csv
+│
+└── models/
+    └── fraud_model.pkl
